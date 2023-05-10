@@ -7,7 +7,7 @@ public class Person {
 
     public Person(String name) {
         this.name = name;
-        this.age = 0;
+        this.age =0;
     }
 
     public Person(String name, int age) {
