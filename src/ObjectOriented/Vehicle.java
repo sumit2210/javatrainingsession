@@ -20,6 +20,8 @@ public class Vehicle {
         numPassengers = scanner.nextInt();
         System.out.println("provide vehicle type");
         type = scanner.next();
+        
+
     }
 
     public void summary(){
