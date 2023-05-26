@@ -1,3 +1,5 @@
+package basicJava;
+
 public class ArraysTest {
     // Array is consecutive memory location
 

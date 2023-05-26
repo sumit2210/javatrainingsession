@@ -1,3 +1,5 @@
+package basicJava;
+
 import java.util.Scanner;
 public class oops_assignment {
     public static void main(String[] args) {

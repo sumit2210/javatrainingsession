@@ -1,3 +1,5 @@
+package basicJava;
+
 public class ArraysAsiignment {
     public static void main(String[] args) {
 

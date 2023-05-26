@@ -1,3 +1,7 @@
+package basicJava;
+
+import basicJava.Adder;
+
 public class AdderTest {
     public static void main(String[] args) {
         Adder adderobj = new Adder(10);
